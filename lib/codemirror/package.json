@@ -45,5 +45,9 @@
     "directories": {},
     "dependencies": {},
     "devDependencies": {}
+  },
+  "dependencies": {
+    "jade": "^1.11.0",
+    "jshint": "^2.9.5"
   }
 }
