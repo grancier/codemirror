@@ -1,8 +1,8 @@
 Package.describe({
-	name: "perak:codemirror",
+	name: "grancier:codemirror",
 	summary: "CodeMirror editor for Meteor >= 1.0",
-	version: "1.3.1",
-	git: "https://github.com/perak/codemirror.git"
+	version: "5.34.0",
+	git: "https://github.com/grancier/codemirror.git"
 });
 
 // Before Meteor 0.9?

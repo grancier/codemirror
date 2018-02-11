@@ -1,9 +1,9 @@
 {
 	"name": "codemirror",
 	"description": "CodeMirror editor for Meteor >= 1.0",
-	"homepage": "https://github.com/perak/codemirror",
-	"author": "Petar Korponaic",
-	"version": "1.3.1",
-	"git": "https://github.com/perak/codemirror.git",
+	"homepage": "https://github.com/grancier/codemirror",
+	"author": "Gary Rancier",
+	"version": "5.34.0",
+	"git": "https://github.com/grancier/codemirror.git",
 	"packages": {}
 }
